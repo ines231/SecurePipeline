@@ -1,0 +1,4 @@
+*.log
+test_secret.txt
+oscap-results.xml
+zap-reports/
